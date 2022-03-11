@@ -7,7 +7,6 @@ public abstract class Participant {
     private int participantCost=500;
     private int proceedingCost=200;
     private int lunchCost=20;
-    //bunları applicationa yazabilir miyim?
 
     public Participant(String fullName, boolean wantLunch, boolean wantProceeding) {
         this.fullName = fullName;
