@@ -14,7 +14,6 @@ public class Main {
         System.out.println("Total Proceeding   : "+ Application.totalProceeding(participants));
         System.out.println("Total Lunch Serving: "+ Application.totalLunchServing(participants));
 
-        //string to string le yapabilir miyim bunları
 
     }
 }
